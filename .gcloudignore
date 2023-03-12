@@ -1,0 +1,14 @@
+cli.py
+.gitignore
+downloads/
+LICENSE
+README.md
+*.jsonl
+.DS_Store
+Makefile
+Pipfile*
+.pytest_cache/
+.git/
+__pycache__/
+.vscode/
+.gcloudignore
